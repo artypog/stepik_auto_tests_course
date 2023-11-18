@@ -1,1 +1,1 @@
-# stepik_auto_tests_course
+Данные по курсу stepik_auto_tests_course
